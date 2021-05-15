@@ -11,6 +11,10 @@ body {
   background-color: #1c2229;
   color: white;
 }
+
+button{
+  cursor: pointer;
+}
 .container{
   display: grid;
   width: 100%;
@@ -216,6 +220,7 @@ body {
   border: none;
   background: rgb(255, 48, 62);
   box-shadow: 5px 5px rgb(162, 3, 14);
+  cursor: pointer;
 }
 .probtn button p {
   margin: 0;
@@ -341,6 +346,7 @@ body {
   border: none;
   background: rgb(255, 48, 62);
   box-shadow: 5px 5px rgb(162, 3, 14);
+  cursor: pointer;
 }
 
 .btn button span {
